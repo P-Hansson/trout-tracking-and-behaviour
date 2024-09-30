@@ -12,7 +12,8 @@ The following diagram shows the file structure. Note that the codes do not creat
 <br>
 
 ### Training the model:
-The training uses YOLOv3 and was done following the instructions and accompanying code of <a href="https://pysource.com/2020/04/02/train-yolo-to-detect-a-custom-object-online-with-free-gpu/">pysource.com</a>
+The training uses YOLOv3 and was done following the instructions and accompanying code of <a href="https://pysource.com/2020/04/02/train-yolo-to-detect-a-custom-object-online-with-free-gpu/">pysource.com</a> <br>
+The cut-off level of certainty of a detection was set to 55%
 <br>
 <br>
 
